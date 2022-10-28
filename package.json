@@ -1,0 +1,15 @@
+{
+  "name": "testing",
+  "version": "0.0.0-development",
+  "main": "index.js",
+  "repository": "git@github.com:alifprihantoro/testing.git",
+  "author": "alifprihantoro <alifmuryp@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "semantic-release-cli": "^5.4.4",
+    "semantic-release": "^19.0.5"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release"
+  }
+}
