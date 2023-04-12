@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aaaaaaaa
+=======
+jadi
+>>>>>>> 4371fc8e5be341d84a5c750262ddf59af8dce101
