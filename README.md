@@ -2,6 +2,4 @@
 Cuman tes
 perubahan local
 tambagan 
-hahaha
-
-ubah
+hahaha 2
